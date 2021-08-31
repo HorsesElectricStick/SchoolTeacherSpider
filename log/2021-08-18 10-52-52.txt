@@ -1,0 +1,2055 @@
+开始爬取：北京交通大学
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 陈晨 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/70477.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 陈思元 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/9394.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 淦小爱 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/9515.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 胡海涛 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/9516.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 刘可欣 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/89192.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 彭雪 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/89171.html -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 李晓光 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 徐东亮 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张利军 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 师红云 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张忠超 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 王向阳 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 蒋永莉 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 温泉 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 高悦 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 崔铸 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 许子龙 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 周倩 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 李雪梅 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 周丽君 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 伍敏 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 刘智敏 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 王磊 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 刘丽 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 邹翠荣 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张鹏伟 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张琼 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 全练琴 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 吴永康 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 徐扬 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 赵影 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 孙振宇 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 施仲衡 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 陈湘生 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+开始爬取：北京交通大学
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 陈晨 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/70477.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 陈思元 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/9394.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 淦小爱 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/9515.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 胡海涛 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/9516.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 刘可欣 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/89192.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 电子信息工程学院 -- None
+	name : 彭雪 -- ./../h6/span//text()
+	title : None -- ./../h6/em//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/eie/89171.html -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 李晓光 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 徐东亮 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张利军 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 师红云 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张忠超 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 王向阳 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 蒋永莉 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 温泉 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 高悦 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 崔铸 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 许子龙 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 周倩 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 李雪梅 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 周丽君 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 伍敏 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 刘智敏 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 王磊 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 刘丽 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 邹翠荣 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张鹏伟 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 张琼 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 全练琴 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 吴永康 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 徐扬 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 赵影 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 孙振宇 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 施仲衡 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 土木建筑工程学院 -- None
+	name : 陈湘生 -- 
+	title : None -- ./../../../p[1]//text()
+	subject : None -- 
+	cur : None -- ./../../../p[2]//text()
+	url : None -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 解伟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70073.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 马克 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 动力与能源工程系 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70526.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张霆 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70611.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 罗振 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70612.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 滑敏 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70629.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 李明 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70632.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王永亮 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70711.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 朱敬 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70736.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 冯俊涛 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70745.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 李娜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70768.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张泽锦 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70797.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 林晔 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70849.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 胡娟娟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/70897.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张凤霞 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89036.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 郭思林 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89038.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 许庆祥 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89039.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王金伟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89056.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 李博鸿 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89057.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 宋鑫 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89058.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 高晓星 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89059.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 魏丹 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89060.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张星海 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89061.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 白春喜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89084.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 周智丰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89087.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 刘伟伟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89091.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 罗红振 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89092.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张宇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89105.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 宋利康 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89119.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 李东 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89126.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张晶晶 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89127.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张胜春 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89133.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王锎 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89177.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 唐树鹏 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89178.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 于鸿珊 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89241.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 褚婧言 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89260.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 贾鑫玥 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89262.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王婧怡 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89265.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王永权 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89276.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 韩春虎 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89283.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王浩侠 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89284.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 徐振东 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89334.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 胡欣欣 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89347.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 廖敏涛 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89352.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 刘广信 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89354.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 高建雨 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89370.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 张润 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89388.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 王帅利 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89392.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 上官一鸣 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89406.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 马文静 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89421.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 尚丽雅 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 工程训练中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89422.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 李郡 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89429.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 杜文婷 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89432.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 许宏霞 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/89464.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 罗予 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9400.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 马汉 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9401.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 杨舒怡 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 院机关 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9518.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 党超 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9679.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 马佩瑶 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9696.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 原露恬 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9744.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 梅嘉炜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/9755.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 李洪萌 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930148.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 杨超 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930167.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 党超 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 动力与能源工程系 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930202.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 巩思茜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械工程系 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930203.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 丁然 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 轨道车辆工程系 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930212.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 闫光远 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 材料科学与工程研究中心 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930215.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 靳晓东 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械工程系 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930216.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 窦伟元 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械工程系 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930226.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 蒲茜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930232.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 机械与电子控制工程学院 -- None
+	name : 徐康 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : 机械与电子控制工程学院 -- ./../../div[@class="info"]/div[last()]/text()
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/mece/98930243.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 理学院 -- None
+	name : 张永欣 -- 
+	title : None -- ./../../div[2]/text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/sci/98930177.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 理学院 -- None
+	name : 任国健 -- 
+	title : None -- ./../../div[2]/text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/sci/98930201.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 理学院 -- None
+	name : 孙晓伟 -- 
+	title : None -- ./../../div[2]/text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/sci/98930220.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 理学院 -- None
+	name : 牛璐 -- 
+	title : None -- ./../../div[2]/text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/sci/98930217.html -- None
+item丢失字段: title  
+	school : 北京交通大学 -- None
+	faculty : 理学院 -- None
+	name : 王晓静 -- 
+	title : None -- ./../../div[2]/text()
+	subject : None -- 
+	cur : None -- 
+	url : http://faculty.bjtu.edu.cn/sci/98930222.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 伍伟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1471.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李栩薏 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1472.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 葛全顺 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1487.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李京平 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1490.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 孔飞 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1498.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王小娟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1516.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘艳秋 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/1532.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 董乐贤 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 馆员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/2497.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 石月 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理研究员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/3275.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 赵冬梅 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5735.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 左映娟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5740.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 常枫 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5755.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 白延雷 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5857.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王虹英 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5873.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 唱宇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5883.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘路薇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5899.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张薇薇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5990.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 姜玉珍 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/5993.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王云彤 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6098.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张秋艳 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6148.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李凇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6167.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 郭艳秋 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6171.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 戴丽萍 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6209.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张亚峰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6237.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 孙贺 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6238.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 郭佳 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6245.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 杨蕾 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6269.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张日美 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6310.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 黄建伟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6312.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 田永丰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6334.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 陆玫 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6362.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 周志杰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6396.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 安娜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6421.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 付天英 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6427.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张宏 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6435.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘文刚 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6447.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 许杰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6464.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘伯星 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6807.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 马彦娇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/6811.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张京 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 研究实习员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/70315.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 贾朝勃 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7270.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 靳铁柱 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7272.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 邵钦瑜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7275.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 姬晓彬 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7284.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 陈岩 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7294.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李岩 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7295.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 高永峰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7298.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘岚 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7301.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 孙英黎 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7335.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 莫永谊 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7362.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 赵海燕 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7398.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 郭雁玲 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7417.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 郭静 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7519.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王建军 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7532.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 马莉 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7627.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘艳平 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7667.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 陈平 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7689.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 艾薇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7699.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 耿梅芳 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7792.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 秦琴 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7819.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 于秀伟 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7828.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 朱静 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7842.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张博明 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7873.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 聂侨 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/7943.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 钱卫红 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理研究员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8019.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 卢强 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8069.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 唐学华 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8164.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张建群 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8216.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 周新 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8278.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 梁静 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8363.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘莹 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8391.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王珍娜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8393.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 赵术 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8422.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张笑寒 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8483.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 卢忱 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8529.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李兰霞 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 副教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8543.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 赵挺 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8553.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 焦志明 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8556.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张龚 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8579.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 祝明姗 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8596.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王斐 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8612.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘竹林 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8615.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李蓓儿 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8635.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 时凌 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8690.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王筱依 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理研究员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8713.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘立华 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 教授 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8768.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 任苒 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8841.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 范书成 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 实验师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8856.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 褚立东 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8859.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 吴丹丹 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理研究员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8880.html -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李金慧 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/89169.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 佟亚维 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8931.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王冰 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理研究员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8993.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 艾琪瑶 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理实验师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/8998.html -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 魏俊晓 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9164.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李畔 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9187.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王珮昱 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 研究实习员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9241.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 谢珊娜 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助教 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9292.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 纪晓楠 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 实验师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9296.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 凌绮 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9297.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 郭轶 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 助理实验师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9353.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 陈丽 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 研究实习员 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9384.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 晏齐宏 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9390.html -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 孙双星 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9405.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 刘玉洁 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9408.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王靖雨 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9410.html -- None
+item丢失字段: title  cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王如诗 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : None -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9531.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 王晓培 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9543.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 高歌 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9553.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 张瑾 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9563.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 章睿君 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9596.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 陈竞宇 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9658.html -- None
+item丢失字段: cur  
+	school : 北京交通大学 -- None
+	faculty : 语言与传播学院 -- None
+	name : 李良会 -- ./../../div[@class="info"]/div[@class="name"]//text()
+	title : 讲师 -- ./../../div[@class="info"]/div[2]/text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="info"]/div[last()]/text()
+	url : http://faculty.bjtu.edu.cn/yyxy/9682.html -- None
+========================================================
+成功获取: 2356, 网页失败: 0
+开始爬取：福州大学
+========================================================
+成功获取: 2060, 网页失败: 0

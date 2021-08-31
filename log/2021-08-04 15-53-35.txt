@@ -1,0 +1,5 @@
+网页爬取失败,未找到教师: http://spxy.cau.edu.cn/col/col34535/index.html
+网页爬取失败,未找到教师: https://naagd.cau.edu.cn/team/
+网页爬取失败,未找到教师: https://naagd.cau.edu.cn/Team/9.html
+========================================================
+成功获取: 2181, 网页失败: 3

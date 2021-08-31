@@ -1,0 +1,931 @@
+开始爬取：中国地质大学(武汉)
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 袁小平 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/yuanxiaoping1/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 谢树成 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xieshucheng/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : David Ke… -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1158/3735.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 张昊 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/zhanghao -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 黄春菊 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/huangchunju/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 肖龙 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xiaolong/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 洪汉烈 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/honghanlie/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 余茜倩 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1158/2264.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 朱宗敏 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/zhuzongmin/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 黄俊 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://junhuang.org/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 曹凯 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1159/2315.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 严森 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/yansen/# -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 李卉 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1159/2234.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 何琦 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球表层系统科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1160/3737.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王信水 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wangxinshui/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 吴非 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wufei/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 汪在聪 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wangzaicong/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 凌文黎 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2273.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 胡圣虹 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2271.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 张宏飞 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2270.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 向武 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xiangwu/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 吴元保 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2268.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 李方林 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2267.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 张利 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2266.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 谢淑云 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xieshuyun/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 刘勇胜 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2260.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 於崇文 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1168/2257.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 徐旺春 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2256.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 乔胜英 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2255.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 汤华云 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2254.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 宗克清 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2253.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 刘金铃 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2252.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 闭向阳 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2251.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 郭亮 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1169/2250.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 任利民 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1170/2248.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 何德涛 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1170/2247.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 郭京梁 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1170/2246.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 聂虎 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球化学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1174/2244.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 殷鸿福 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2301.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 江海水 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/jianghaishui/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 赖旭龙 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2300.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 张雄华 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2298.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 卢宗盛 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2297.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 冯庆来 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2296.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 杜远生 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2295.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 龚一鸣 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2294.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 童金南 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2293.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 颜佳新 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/Yanjiaxin/zh_CN/index/27640/list/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 喻建新 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2291.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 宋海军 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/songhaijun/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 何卫红 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1175/2289.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 罗根明 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/luogenming/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 谢树成 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xieshucheng/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 余文超 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/yuwenchao/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 顾松竹 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1176/2285.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 杨江海 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/yangjianghai/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 楚道亮 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/chudaoliang -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 韩凤禄 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1176/2278.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 徐冉 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1177/2281.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 陈林 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1177/2280.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 袁爱华 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1177/2279.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 徐亚东 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1177/2277.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 石敏 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/shimin/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 古娜 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球生物学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1181/2274.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 金振民 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2320.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 温斌 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/zhongwen2/index.jsp?teacherid=4892&language=zh_CN&homepageid=4635&templateid=1012&mode=99&wbtreeid=1001 -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 马义明 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/mayiming -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 曹毅 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/caoyi/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王国灿 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2331.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 章军锋 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2329.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : Timothy … -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2327.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 续海金 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xuhaijin -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 曹淑云 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2324.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 彭松柏 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2323.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王墩 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wangdun/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王永锋 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1182/2316.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 徐亚军 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xuyajun/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 刘强 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/liuqiang/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 刘德民 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1183/2317.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 徐海军 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1183/2314.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王岸 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1183/2313.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 李志勇 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/lizhiyong/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 杨宝忠 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1183/2311.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 邓浩 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/denghao/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 徐先兵 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/XianbingXu/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王军鹏 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wangjunpeng/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 薛振华 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xuezhenhua/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 余英 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1184/2308.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 申添毅 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 构造地质与地球动力学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/shentianyi/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 朱峰 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/zhufeng/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 马强 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/maqiang/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 佘振兵 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/She_ZhenBing/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 朱云海 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2360.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 赵军红 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2359.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 陈能松 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2358.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 赵珊茸 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2357.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 马昌前 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2356.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 郑建平 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2355.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王伟 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wangwei/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 周汉文 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2351.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 张宁 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1189/2349.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 苏玉平 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/suyuping -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 李益龙 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/liyilong/zh_CN/index/9996/list/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 李波涛 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/libotao/zh_CN/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 刘鹏雷 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/liupenglei/zh_CN/index/26293/list/index.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 边秋娟 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2348.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 钟玉芳 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2347.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 刘嵘 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2346.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 余淳梅 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2345.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王国庆 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2343.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 陈明 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/chenming/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 骆必继 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2339.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 王连训 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/wanglianxun -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 殷科 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : https://dxy.cug.edu.cn/info/1190/2334.htm -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 平先权 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/pingxianquan/ -- None
+item丢失字段: title  
+	school : 中国地质大学(武汉) -- None
+	faculty : 地球科学学院 -- None
+	name : 夏彬 -- 
+	title : None -- ./../../../preceding-sibling::h4[1]//text()
+	subject : 地球物质科学系 -- //a[@class="ahover"]//text()
+	cur : None -- 
+	url : http://grzy.cug.edu.cn/xiabin/ -- None
+========================================================
+成功获取: 1811, 网页失败: 0

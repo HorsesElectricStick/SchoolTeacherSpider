@@ -1,0 +1,96 @@
+开始爬取：华北电力大学(保定)
+开始爬取：华北电力大学(保定)
+开始爬取：华北电力大学(保定)
+item丢失字段: cur  
+	school : 华北电力大学(保定) -- None
+	faculty : 英语系 -- None
+	name : 高霄 -- 
+	title : 教授 -- ./../td[3]//text()
+	subject : 翻译专业教研室 -- ./../td[4]//text()
+	cur : None -- ./../td[5]//text()
+	url : None -- None
+========================================================
+成功获取: 786, 网页失败: 0
+开始爬取：南京师范大学
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 陈中建 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3821.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 李宝国 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3817.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 李红亮 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3815.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 李建俊 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3851.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 宋 喆 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3820.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 陶 勤 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3853.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 汪 崎 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3816.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 王秀良 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3818.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 薛传会 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3850.html -- None
+item丢失字段: title  
+	school : 南京师范大学 -- None
+	faculty : 公共管理学院 -- None
+	name : 张方华 -- 
+	title : None -- ./../../div[@class="zhicheng"]//text()
+	subject : None -- 
+	cur : None -- None
+	url : http://spa.njnu.edu.cn/person/3812.html -- None
+========================================================
+成功获取: 2069, 网页失败: 0

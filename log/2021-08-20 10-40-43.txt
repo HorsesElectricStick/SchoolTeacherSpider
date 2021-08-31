@@ -1,0 +1,150 @@
+开始爬取：中国矿业大学(华东)
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 刘秀凤（高工） -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 实验中心 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/syzx.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 刘莉 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 实验中心 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/syzx.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 李长贵 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 王义保 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 刘海明 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 李效顺 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 王锋 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 李爱彬 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 李妍 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 宋协武 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 孙婉 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 王贝贝 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 李月 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 李欣 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 冯少凤 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 崔小燕 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 刘建潇 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+item丢失字段: title  
+	school : 中国矿业大学(华东) -- None
+	faculty : 公共管理学院 -- None
+	name : 张璨 -- 
+	title : None -- ./../../../../preceding-sibling::h3[1]//text()
+	subject : 院机关 -- //div[@class="list"]//li[@class="on"]//text()
+	cur : None -- None
+	url : http://cllp.cumt.edu.cn/szdw1/yjg1.htm -- None
+========================================================
+成功获取: 2400, 网页失败: 0
+开始爬取：合肥工业大学
+========================================================
+成功获取: 2285, 网页失败: 0
