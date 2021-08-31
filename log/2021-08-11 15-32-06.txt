@@ -1,0 +1,1307 @@
+开始爬取：华中师范大学
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 罗丽华 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2538.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 何静 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 盘华 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 吴绍靖 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2537.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 吴梦文 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 黄涛 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 钟文锐 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2704.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 吴和林 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 杨勇 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2445.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 金淑兰 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2439.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 张干年 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2715.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 余莲 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 申定羽 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 肖静芬 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 龙莉 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 严莉 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 汪兵 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 李娣 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2438.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 曹芬荣 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2707.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 余红亮 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2705.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 张法光 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 沈红云 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 胡尉尉 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2709.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 周尤 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 曹浪舟 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 张婷 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 孔庆鹏 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2703.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 刘硕 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 王潘 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1016/2710.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 罗婧雯 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 卢思逸 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 罗兰 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 张志 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 任梦璐 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/xzglxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 王艳凤 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1017/2712.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 李世祥 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1017/2711.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 熊芬 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 陈诚 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 王俊 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 胡念泽 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 宋陈虹依 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 胡妙 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 方静 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 夏张琳 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 段超 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1017/2459.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 南洋 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 何永亮 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 陈世光 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/info/1017/2473.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 熊均霞 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 汪玲 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 赵琪瑞 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 葛江麒 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: title  
+	school : 华中师范大学 -- None
+	faculty : 人工智能教育学部 -- None
+	name : 林泽乾 -- 
+	title : None -- ./../../../../div[@class="xy-biaoti"]//text()
+	subject : None -- 
+	cur : None -- 
+	url : http://foaie.ccnu.edu.cn/szdw/qtxl.htm -- 
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 陈刚 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 代数， 有限群的表示论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 邓引斌 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性椭圆方程与抛物方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 董才林 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 计算机网络
+云计算
+智能计算与信息处理等 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 樊恽 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 群论、有限群表示、代数编码、计算机算法 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: cur  url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 方文波 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : None -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 郭玉劲 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性泛函分析及其应用、非线性偏微分方程、数学物理 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 何兴纲 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 测度论及其应用、 调和与非调和Fourier分析、分形几何、小波分析。 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 侯宣继 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 动力系统 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 胡典顺 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学课程原理、数学教学原理、数学教师教育 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 胡智全 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 黄继才 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 常微分方程和动力系统及其应用 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李波 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 大数据应用、概率统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李工宝 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性椭圆型偏微分方程与变分法 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李书超 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 组合数学、图论及其应用 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李相文 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图论与组合数学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 刘宏伟 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 代数编码 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 刘磊 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 几何分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 刘敏思 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 值分布理论、分形几何、高等数学教育 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 刘双乾 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 罗金权 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 代数编码，密码学和数论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 彭双阶 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性偏微分方程、非线性泛函分析、奇异摄动理论等 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 覃红 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 试验设计、组合设计、统计判决理论、多元分析、生物统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 饶辉 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 分形几何，符号动力系统和Tiling理论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 阮立志 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 徐章韬 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 学科教学论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 严国政 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性偏微分方程及应用 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 晏挺 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 网络数据分析，高维问题 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 杨军 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性偏微分方程, 非线性分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 尧小华 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : Fourier分析及应用、微分算子理论、数学物理 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 阴小波 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 有限元高精度算法，移动网格方法，非局部问题的数值分析，Parareal并行计算。 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张健 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 李代数、量子群、表示论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张兴安 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学的确定性与不确定性分析、数量生物学等 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张正杰 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 偏微分方程（椭圆型方程解的存在性） -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 赵慧 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 生存分析、纵向数据分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 郑高峰 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 椭圆、抛物型偏微分方程、几何发展方程、几何测度论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 周远扬 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 群及其表示 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 周振荣 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : Laplace算子谱几何、调和映射、次黎曼几何 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 左国新 -- ./td[1]//text()
+	title : 教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 生存分析、非参数/半参数回归、模型选择等 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 常浩 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 模李代数 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 安丽想 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 测度论及其应用、分形几何、小波分形、调和与非调和Fourier分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 陈世荣 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学物理、分形几何 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 陈应保 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数理统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 陈永发 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : Spin 几何 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 程亮 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 几何分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 程婷 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数值偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 代晋军 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 解析函数边值问题与奇异积分方程及数值解法 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 邓国泰 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 分形几何与小波分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 邓勤涛 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 度量几何、子流形几何 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 邓清泉 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 调和分析与微分算子 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 段然 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 凡石磊 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 遍历论、复分析及复动力系统、代数动力系统 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 范琼 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图论 组合数学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 方华强 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学教学论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 付小叶 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 分形几何，小波分析，压缩感知，图像处理 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 郭思培 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数据库、金融数学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 胡建伟 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数理统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 胡小兰 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : Graph theory -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 胡学琴 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 群论,有限群表示 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 蒋代军 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 反问题，稀疏优化及控制，快速算法 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 蒋咪娜 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性双曲型偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李俊锋 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 微分方程的理论及其应用 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李书刚 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性动力学，控制论, 分子生物学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李正帮 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 大数据分析,统计遗传等 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 廖滨华 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 计算机网络,计算机数学软件 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 林明辉 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 代数数论, Iwasawa理论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 刘创业 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性椭圆型偏微分方程组 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 刘汉平 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学教学论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 龙旸靖 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图论、生物数学、大数据及其应用 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 梅全雄 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 学科教学论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 宁建辉 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 试验设计，统计计算 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 王春花 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性椭圆型偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 王春香 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 运筹学与控制论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 王华 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 王燕 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 计算数学，偏微分方程数值解 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 熊惠民 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学哲学与数学方法论，数学教育统计与测评，数学教师教育 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 徐汉文 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 学科教学论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 杨翠红 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 常微分方程和动力系统，生物数学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张国 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 椭圆型偏微分方程， Navier-Stokes 方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张晶 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 计算数学，谱方法及高精度方法 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张晓飞 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数据挖掘、机器学习、生物信息学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 赵小妹 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 訾瑞昭 -- ./td[1]//text()
+	title : 副教授 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 流体力学中的偏微分方程（可压缩与不可压缩流体） -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 丁来浩 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图染色理论、极值图论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 郭红艳 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 李代数，顶点算子代数 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 黄超 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数理统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李娜 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学教育 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 李佩彦 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 随机微分方程，扩散过程的统计推断 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 曲连强 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 生存分析、高维数据分析、图像数据分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 曲连强 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 生存分析,复发事件及纵向数据分析
+非参数统计
+高维数据分析
+精准医疗 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 帅伟 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 非线性偏微分方程 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 宋冰玉 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 几何分析 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 唐向阳 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 计算机应用、数学模型 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 王书晶 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图论和组合数学 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 吴茗 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数理统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 熊明 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数理统计 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 徐胜林 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 数学教学论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张俊 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 算子半群,发展方程，算子代数 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张雄军 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 图像处理，张量优化，机器学习 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 张圆 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 分形几何和Tiling理论 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: url  
+	school : 华中师范大学 -- None
+	faculty : 数学与统计学学院 -- None
+	name : 赵全庭 -- ./td[1]//text()
+	title : 讲师 -- //h4[@class="teacherTitle"]//text()
+	subject : None -- 
+	cur : 复微分几何与复代数几何 -- ./td[2]//text()
+	url : None -- ./td[2]//text()
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 吴飞建 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1053/3460.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 蒙建忠 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/3445.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 王泽群 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/3446.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 龚思颖 -- 
+	title : 实验师 -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/7617.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 张金菊 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/7293.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 熊国梅 -- 
+	title : 七级职员 -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/2174.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 杨娇艳 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/3447.htm -- ./../../div[@class="yj"]//text()
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 周权 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1021/3449.htm -- ./../../div[@class="yj"]//text()
+========================================================
+成功获取: 1814, 网页失败: 0
+开始爬取：华中师范大学
+item丢失字段: title  cur  
+	school : 华中师范大学 -- None
+	faculty : 生命科学学院 -- None
+	name : 张铭 -- 
+	title : None -- ./../../div[@class="zc"]//text()
+	subject : None -- 
+	cur : None -- ./../../div[@class="yj"]//text()
+	url : http://bio.ccnu.edu.cn/info/1054/3476.htm -- ./../../div[@class="yj"]//text()
+========================================================
+成功获取: 48, 网页失败: 0

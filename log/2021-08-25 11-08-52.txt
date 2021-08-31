@@ -1,0 +1,151 @@
+开始爬取：中国海洋大学
+开始爬取：中国海洋大学
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 王苑琢 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312895/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 张硕 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312900/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 王苏 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312894/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 宋照鲁 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312892/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 侯强 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312889/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 蔡春丽 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312888/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 黄建琦 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 营销与电子商务系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20875a312909/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 张广海 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 旅游学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0114/c20876a312548/page.htm -- None
+item丢失字段: subject  
+	school : 中国海洋大学 -- None
+	faculty : 外国语学院 -- None
+	name : 中本靖子 -- 
+	title : 外教 -- ./../../p[2]//text()
+	subject : None -- ./../../p[3]//text()
+	cur : None -- 
+	url : http://flc.ouc.edu.cn/2019/0711/c12472a252550/page.htm -- None
+========================================================
+成功获取: 2131, 网页失败: 0
+开始爬取：中国海洋大学
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 王苑琢 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312895/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 张硕 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312900/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 王苏 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312894/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 宋照鲁 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312892/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 侯强 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312889/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 蔡春丽 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 会计学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20874a312888/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 黄建琦 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 营销与电子商务系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0122/c20875a312909/page.htm -- None
+item丢失字段: title  cur  
+	school : 中国海洋大学 -- None
+	faculty : 管理学院 -- None
+	name : 张广海 -- 
+	title : None -- ./../../div[@class="zd"][1]/div[last()]//text()
+	subject : 旅游学系 -- //li[@class="col_path"]/a[last()]//text()
+	cur : None -- ./../../div[@class="zd"][2]/div[last()]//text()
+	url : http://ibs.ouc.edu.cn/2021/0114/c20876a312548/page.htm -- None
+item丢失字段: subject  
+	school : 中国海洋大学 -- None
+	faculty : 外国语学院 -- None
+	name : 中本靖子 -- 
+	title : 外教 -- ./../../p[2]//text()
+	subject : None -- ./../../p[3]//text()
+	cur : None -- 
+	url : http://flc.ouc.edu.cn/2019/0711/c12472a252550/page.htm -- None
+========================================================
+成功获取: 2131, 网页失败: 0
