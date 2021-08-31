@@ -1,0 +1,870 @@
+开始爬取：湖南师范大学
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 代建华 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1335.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 毕夏安(校聘教授) -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/3173.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 付玉 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1166.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 黄金贵 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1167.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 綦朝晖 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1507.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 钱光明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1168.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 肖林 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/2005.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王志刚 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1169.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 谢民主 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1170.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 杨家红 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1176/1171.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 董苹苹 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/2470.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李重文 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/1173.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 童钊 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/2003.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 熊志斌 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/2173.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 徐鹏飞 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/1175.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 杨田 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/1913.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 余建平 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/1176.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 钟坚成 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1177/1177.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 付维娜 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/3062.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 邹力耕 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/3061.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 康蕴 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/3060.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李静 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/2182.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李希 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/1180.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 罗迅 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/1181.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 梅晶 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/1182.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 任文进 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/2181.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 肖柳明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/1185.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 许尚武 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/1186.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 杨林 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/2180.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 余斌 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/2720.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 周云霞 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 计算机科学与技术系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1178/1187.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘宏 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1181/1337.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘运龙 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1181/2004.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘先锋 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1181/1193.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张锦 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1181/1194.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 蔡美玲 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1195.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 邓冬梅 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/2177.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 窦亚玲 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1196.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 官理 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/2176.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘金平 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1200.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘方舟 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1199.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李强 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1198.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 马华 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1202.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王胜春 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1204.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王六平 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1203.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 肖伟 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1207.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 徐大宏 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1182/1208.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 黄灿 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1183/2186.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 谭剑 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1183/2193.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 谢永明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1183/1214.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 尹丹 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1183/2185.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张楚才 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1183/1215.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张丽霞 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 软件工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1183/1216.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘相滨 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1262/2169.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘帅 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1262/2140.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 罗坚 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1263/3170.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李扬定 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1263/3171.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 江沸菠 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1263/2390.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王润民 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1263/2158.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 曾道建 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/3070.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 蔡飞 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/3069.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 龙静 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/3067.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 郭志军 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/3065.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 戴颖龙 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/3064.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 肖球 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/3056.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 陈明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/2147.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 雷清 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/2183.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 焦永 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/2184.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 温翠红 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/2142.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 周志彬 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 人工智能系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1264/2159.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 杜保强 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1275/2734.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 黄建平 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1275/2171.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 唐文胜 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1275/2170.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王玲 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1275/2150.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李晋 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1276/2154.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 田泽荣 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1276/2153.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 余慧敏 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1276/2152.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 周慧 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1276/2471.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王玉明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1277/3063.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 程俊 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1277/2164.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 罗轶 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1277/2163.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 沈坤 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1277/2162.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 阳红 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1277/2187.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张协衍 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 通信工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1277/2161.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 娄小平 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1270/2472.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张连明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1270/2314.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 陈兆仁(高级实验师) -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/2172.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 丁亚军 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/2179.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 董俊 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/3172.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 蒋少华 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/2146.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 万求真 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/2480.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 魏叶华 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/2155.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 魏书宁 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1271/2156.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 李林海 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1272/2192.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 秦宏毅 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1272/2191.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 王进 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1272/2190.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张淳 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1272/2188.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 臧晓峰 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 物联网工程系 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1272/2189.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 邓月明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1196/2473.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 宁帆 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1196/1268.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 瞿绍军 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1196/1269.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 刘慧 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1197/1273.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 潘勇 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1197/1274.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 石坚 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1197/1275.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 魏长明 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1197/1276.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 谢超 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1197/1424.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 姚政 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1197/1277.htm -- None
+item丢失字段: title  
+	school : 湖南师范大学 -- None
+	faculty : 信息科学与工程学院 -- None
+	name : 张新悦 -- 
+	title : None -- //span[@class="s1_4_"]//text()
+	subject : 实验中心 -- //li[@class="on"]//text()
+	cur : None -- None
+	url : https://cise.hunnu.edu.cn/info/1198/1278.htm -- None
+========================================================
+成功获取: 2034, 网页失败: 0
+开始爬取：湖南师范大学
+========================================================
+成功获取: 2034, 网页失败: 0
