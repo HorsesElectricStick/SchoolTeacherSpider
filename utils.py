@@ -166,7 +166,7 @@ class Spider:
             rb = xlrd.open_workbook(path)
             rs = rb.sheet_by_index(0)
             school = os.path.basename(path).split('.')[0]
-            self.logger.info("开始爬取：%s" %school)
+            self.logger.info("开始爬取：{0} 【测试模式:{1}】".format(school, {False:'OFF', True:'ON'}[self.test_mode]))
             for i in range(rs.nrows):
                 faculty = None
                 subject = None
