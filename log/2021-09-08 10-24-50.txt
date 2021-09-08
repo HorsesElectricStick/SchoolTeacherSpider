@@ -1,0 +1,201 @@
+开始爬取：东北林业大学 【测试模式:ON】
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 刘大伟 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 魏晓慧 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 张国珍 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 张彦东 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 夏祥友 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 杨文化 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 王向荣 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 宁蕊 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+开始爬取：东北林业大学 【测试模式:OFF】
+开始爬取：东北林业大学 【测试模式:OFF】
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 刘大伟 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 魏晓慧 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 张国珍 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 张彦东 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 夏祥友 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 杨文化 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 王向荣 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段 【title】  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 宁蕊 -- 
+	【title】 : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+========================================================
+成功获取: 1250, 网页失败: 0
+开始爬取：云南大学 【测试模式:ON】
+item丢失字段 【title】  
+	school : 云南大学 -- None
+	faculty : 政府管理学院 -- None
+	name : 姜绍勇 -- ./@title
+	【title】 : None -- ./div/p[@class="name"]/span/text()
+	subject : 公共管理系 -- //a[@class="hov"]//text()
+	cur : None -- None
+	url : http://www.spa.ynu.edu.cn/info/1262/2420.htm -- None
+========================================================
+成功获取: 256, 网页失败: 0
+开始爬取：云南大学 【测试模式:ON】
+item丢失字段 【title】  
+	school : 云南大学 -- None
+	faculty : 政府管理学院 -- None
+	name : 姜绍勇 -- ./@title
+	【title】 : None -- ./div/p[@class="name"]/span/text()
+	subject : 公共管理系 -- //a[@class="hov"]//text()
+	cur : None -- 
+	url : http://www.spa.ynu.edu.cn/info/1262/2420.htm -- None
+item丢失字段 【cur】  
+	school : 云南大学 -- None
+	faculty : 国际关系研究院 -- None
+	name : 邹怡 -- ./text()
+	title : 助理研究员 -- ./span/text()
+	subject : None -- 
+	【cur】 : None -- ./../div[@class="infor"]/text()
+	url : None -- None
+========================================================
+成功获取: 1123, 网页失败: 0
+开始爬取：云南大学 【测试模式:OFF】
+item丢失字段 【title】  
+	school : 云南大学 -- None
+	faculty : 政府管理学院 -- None
+	name : 姜绍勇 -- ./@title
+	【title】 : None -- ./div/p[@class="name"]/span/text()
+	subject : 公共管理系 -- //a[@class="hov"]//text()
+	cur : None -- 
+	url : http://www.spa.ynu.edu.cn/info/1262/2420.htm -- None
+item丢失字段 【cur】  
+	school : 云南大学 -- None
+	faculty : 国际关系研究院 -- None
+	name : 邹怡 -- ./text()
+	title : 助理研究员 -- ./span/text()
+	subject : None -- 
+	【cur】 : None -- ./../div[@class="infor"]/text()
+	url : None -- None
+========================================================
+成功获取: 1123, 网页失败: 0
+开始爬取：云南大学 【测试模式:OFF】
+item丢失字段 【title】  
+	school : 云南大学 -- None
+	faculty : 政府管理学院 -- None
+	name : 姜绍勇 -- ./@title
+	【title】 : None -- ./div/p[@class="name"]/span/text()
+	subject : 公共管理系 -- //a[@class="hov"]//text()
+	cur : None -- 
+	url : http://www.spa.ynu.edu.cn/info/1262/2420.htm -- None
+item丢失字段 【cur】  
+	school : 云南大学 -- None
+	faculty : 国际关系研究院 -- None
+	name : 邹怡 -- ./text()
+	title : 助理研究员 -- ./span/text()
+	subject : None -- 
+	【cur】 : None -- ./../div[@class="infor"]/text()
+	url : None -- None
+========================================================
+成功获取: 1123, 网页失败: 0

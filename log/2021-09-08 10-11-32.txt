@@ -1,0 +1,67 @@
+开始爬取：东北林业大学 【测试模式:ON】
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 刘大伟 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 魏晓慧 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 张国珍 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 张彦东 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 夏祥友 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 杨文化 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 王向荣 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+item丢失字段: title  
+	school : 东北林业大学 -- None
+	faculty : 林学院 -- None
+	name : 宁蕊 -- 
+	title : None -- ./../td[2]//text()
+	subject : *** -- ***
+	cur : None -- None
+	url : None -- None
+========================================================
+成功获取: 1250, 网页失败: 0
