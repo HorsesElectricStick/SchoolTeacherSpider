@@ -139,7 +139,10 @@ class Spider:
             if i[0] == '[' and i[-1] == ']':
                 result += eval(i)
             else:
-                result.append(i)
+                if i not in result:
+                    result.append(i)
+                else:
+                    self.logger.warning('存在重复的URL: %s' %i)
         return result
 
     def _iframe(self, iframe_str: str) -> None:
