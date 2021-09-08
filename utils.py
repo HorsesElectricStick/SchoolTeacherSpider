@@ -106,9 +106,12 @@ class Spider:
                     lost.append(key)
 
         if lost:
-            lost_str = "item丢失字段: " + "%s  " * len(lost) %tuple(lost)
+            lost_str = "item丢失字段 " + "【%s】  " * len(lost) %tuple(lost)
             for i in res:
-                lost_str += "\n\t" + "{0} : {1} -- {2}".format(i, res[i], item[i][1])
+                if i in lost:
+                    lost_str += "\n\t" + "{0} : {1} -- {2}".format('【' + i + '】', res[i], item[i][1])
+                else:
+                    lost_str += "\n\t" + "{0} : {1} -- {2}".format(i, res[i], item[i][1])
             self.logger.warning(lost_str)
 
         return res
