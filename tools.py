@@ -5,11 +5,7 @@ import requests
 from requests_html import HTMLSession
 from selenium import webdriver
 import re
-import xlrd
-from urllib.parse import urljoin
-import time
 import random
-from copy import deepcopy
 from selenium.webdriver import Chrome
 
 class MyDriver(Chrome):
