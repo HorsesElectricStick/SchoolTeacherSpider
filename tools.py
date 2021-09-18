@@ -14,12 +14,12 @@ class MyDriver(Chrome):
         获得网页的HTML, 结果经过etree.HTML函数处理后返回.
         '''
         html = self.execute_script("return document.documentElement.outerHTML")
-        html = etree.HTML(html)
-        return html
+        return etree.HTML(html)
 
 def randf():
     return random.uniform(0.6, 1.3)
 
+# 标准插入语句
 _sql = 'insert into teacher (school, faculty, name, title, subject, curriculum, introduction) values(%s,%s,%s,%s,%s,%s,%s)'
 
 def only_chinese(s):
@@ -72,10 +72,20 @@ def get_driver():
 def nameparse(s, mark=None) -> list:
     '''
     对人名字符串进行解析，将人名切割和合并，mark为切割标记字符
-    如：
+    主要针对 *有空格的二字人名* 所组成的混合字符串
+    如:
         string = "张三 李 四   王 五  张某人 李  某"
         nameparse(string) -> ['张三', '李四', '王五', '张某人', '李某']
     并不适用于所有情况，该方法会打印解析后人名的数量以供校对
+    已知不适用的情况:
+        (1) 有空格的三字人名
+            string = "张三 李 四   王 五  张某 人 李  某"
+            nameparse(string) -> ['张三', '李四', '王五', '张某', '人李']
+        (2) 有空格的英文名
+            string = "张三 李 四   王 五  张某人 李  某 Peter Park"
+            nameparse(string) -> ['张三', '李四', '王五', '张某人', '李某', 'Peter', 'Park']
+    注意事项:
+        (1) 结果会进行去重，如有同名不同人的情况，需添加标记，如 "张三 张三" 更改为 "张三(大) 张三(小)"
     '''
     if mark:
         names = s.split(mark)
