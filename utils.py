@@ -11,8 +11,18 @@ import logging
 from datetime import datetime
 from urllib.parse import urljoin
 from lxml import etree
+from selenium.webdriver import Chrome
 
-def get_driver() -> webdriver.Chrome:
+class MyDriver(Chrome):
+    def get_html(self):
+        '''
+        获得网页的HTML, 结果经过etree.HTML函数处理后返回.
+        '''
+        html = self.execute_script("return document.documentElement.outerHTML")
+        html = etree.HTML(html)
+        return html
+
+def get_driver() -> MyDriver:
     options = webdriver.ChromeOptions()
     options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images":2})
     options.add_argument("start-maximized")
@@ -20,7 +30,7 @@ def get_driver() -> webdriver.Chrome:
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option("useAutomationExtension", False)
     options.add_argument("--disable-blink-features=AutomationControlled")
-    driver = webdriver.Chrome(options=options)
+    driver = MyDriver(options=options)
     return driver
 
 def get_config() -> dict:
