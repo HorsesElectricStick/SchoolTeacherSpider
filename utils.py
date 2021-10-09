@@ -65,7 +65,7 @@ class Spider:
             文件名为校名
             每行数据共7列，不足7列的自动补足到7列
         关于每行数据:
-            第1列为院名，可指定具体的系，以"/"隔开 (如: 化学院/生物化学系)，如果在之后的第6列中有指定系名，以第6列为准
+            第1列为院名，可指定具体的系，以"=>"隔开 (如: 化学院=>生物化学系)，如果在之后的第6列中有指定系名，以第6列为准
             第2列为要爬取的url，多个url以换行符"\n"隔开。以"["开头和以"]"结尾的，作为列表生成式处理
             第3列为教师，xpath语句要保证隔离开每一个教师，指向的是节点元素，而非节点的属性。如果指向的是a标签节点，自动提取@href作为老师详情页url。在第三列为空的情况下，以当前节点下的所有text()拼接作为教师名
             第4列为教师名，xpath要以第2列指向的元素作为根节点。在第2列的节点所含文本为教师名的情况下，可省略不写
@@ -79,8 +79,9 @@ class Spider:
         self.path = path
         self.conn = get_conn()
         self.cursor = self.conn.cursor()
-        self.logger = logging.getLogger(__name__)
-        self.logger.addHandler(logging.FileHandler(os.path.abspath(__file__) + "/../log/{0}.txt".format(datetime.strftime(datetime.now(), "%Y-%m-%d %H-%M-%S"))))
+        self.loggerFileName = os.path.abspath(__file__) + "/../log/{0}.txt".format(datetime.strftime(datetime.now(), "%Y-%m-%d %H-%M-%S"))
+        self.logger = logging.getLogger(self.loggerFileName)
+        self.logger.addHandler(logging.FileHandler(self.loggerFileName))
         self.logger.setLevel(level = logging.INFO)
         self.count = {'succeed': 0, 'failed': 0}
         self.test_mode = test

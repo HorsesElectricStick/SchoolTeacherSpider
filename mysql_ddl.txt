@@ -1,0 +1,11 @@
+CREATE TABLE `teacher` (
+  `id` int(12) NOT NULL AUTO_INCREMENT,
+  `school` varchar(256) CHARACTER SET utf8mb4 NOT NULL,
+  `faculty` varchar(256) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `name` varchar(256) CHARACTER SET utf8mb4 NOT NULL,
+  `title` varchar(256) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `subject` varchar(256) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `curriculum` varchar(512) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `introduction` longtext CHARACTER SET utf8mb4,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4;
