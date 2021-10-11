@@ -27,6 +27,7 @@ def get_driver() -> MyDriver:
     options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images":2})
     options.add_argument("start-maximized")
     options.add_argument('--ignore-certificate-errors')
+    options.add_argument('--ignore-ssl-errors')
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option("useAutomationExtension", False)
     options.add_argument("--disable-blink-features=AutomationControlled")
@@ -73,7 +74,7 @@ class Spider:
             第6列为系
             第7列为教师专长或研究方向
         '''
-        logging.basicConfig(level = logging.INFO, format = '%(asctime)s - %(name)s - %(levelname)s \n\t%(message)s')
+        logging.basicConfig(level = logging.INFO, format = '%(asctime)s - %(funcName)s - %(levelname)s \n\t%(message)s')
         self.table_name = get_table_name()
         self.driver = driver if driver else get_driver()
         self.path = path
