@@ -206,7 +206,11 @@ class Spider:
                     title = None
                     cur = None
                     url = None
-                    self.driver.get(burl)
+                    try:
+                        self.driver.get(burl)
+                    except:
+                        self.logger.error("打开网页失败: %s" %burl)
+                        continue
                     time.sleep(random.uniform(0.6,1.2))
                     if iframe:
                         try:
